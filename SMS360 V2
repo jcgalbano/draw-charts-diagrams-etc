@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T10:38:18.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Cc_hh1XWRh70MJwjBQNp" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T12:43:30.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="LKxvcYSPQ9OMhMXWEOzc" version="13.5.1" type="github">
   <diagram id="YEAdxzEWq254XvH8xoXW" name="Page-1">
-    <mxGraphModel dx="1406" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3500" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="5677" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3500" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,6 +140,12 @@
         </mxCell>
         <mxCell id="VZsT3FZVjygR4kHv67sF-56" value="Mobile Frontend (React Native)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZsT3FZVjygR4kHv67sF-60" value=".&lt;br&gt;.&lt;br&gt;." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2335" y="785" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VZsT3FZVjygR4kHv67sF-61" value=".&lt;br&gt;.&lt;br&gt;." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2335" y="1325" width="20" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
