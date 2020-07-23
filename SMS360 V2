@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T12:43:30.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="LKxvcYSPQ9OMhMXWEOzc" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T12:48:41.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="eMLi-6LmN66SmaOradDK" version="13.5.1" type="github">
   <diagram id="YEAdxzEWq254XvH8xoXW" name="Page-1">
-    <mxGraphModel dx="5677" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3500" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1362" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3500" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
         <mxCell id="VZsT3FZVjygR4kHv67sF-26" value="Background Job Container 1&lt;br&gt;.&lt;br&gt;.&lt;br&gt;." style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="2840" y="1185" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VZsT3FZVjygR4kHv67sF-28" value="&lt;b&gt;Optimization Suggestions&lt;br&gt;&lt;/b&gt;&lt;br&gt;Caching Requests (Redis + Amazon Elastic Cache).&lt;br&gt;Database Partitioning&lt;br&gt;Still N + 1 Queries&lt;br&gt;Microservices Architecture&lt;br&gt;&lt;br&gt;.&lt;br&gt;.&lt;br&gt;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VZsT3FZVjygR4kHv67sF-28" value="&lt;b&gt;Optimization Suggestions&lt;br&gt;&lt;/b&gt;&lt;br&gt;Caching Requests (Redis + Amazon Elastic Cache).&lt;br&gt;Database Partitioning&lt;br&gt;Eliminate ALL N + 1 Queries&lt;br&gt;Microservices Architecture&lt;br&gt;&lt;br&gt;.&lt;br&gt;.&lt;br&gt;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="735" y="975" width="410" height="340" as="geometry" />
         </mxCell>
         <mxCell id="VZsT3FZVjygR4kHv67sF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VZsT3FZVjygR4kHv67sF-32" target="VZsT3FZVjygR4kHv67sF-26">
