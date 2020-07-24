@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T13:16:10.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="etMUB9RD5bYv1LX4xqlv" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-24T13:26:42.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="IspKe5vUjwRWZjI27rWq" version="13.5.1" type="github">
   <diagram id="YEAdxzEWq254XvH8xoXW" name="Page-1">
     <mxGraphModel dx="4866" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3500" pageHeight="900" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
           <mxGeometry x="530" y="685" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eHz-9sTvMCvi2T2f_J6d-14" value="Pros:&lt;br&gt;+ Simple Architecture&lt;br&gt;&lt;br&gt;Cons:&lt;br&gt;- A single big request requires the effort of the whole&lt;br&gt;- No distinct separation of frontend and backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="535" width="290" height="90" as="geometry" />
+          <mxGeometry x="980" y="785" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eHz-9sTvMCvi2T2f_J6d-15" value="Pros:&lt;br&gt;+ Clear separation of frontend and backend&lt;br&gt;+ More structure to frontend, having models that can represent backend data better&lt;br&gt;+ Component-based deployment&lt;br&gt;+ Component-based testing&lt;br&gt;+ Horizontal Scaling&lt;br&gt;&lt;br&gt;Cons:&lt;br&gt;- Complex Architecture&lt;br&gt;- Entity-relation should be clear from the start&lt;br&gt;(Proper Documentation)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="2630" width="460" height="160" as="geometry" />
